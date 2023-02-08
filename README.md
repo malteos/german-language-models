@@ -4,7 +4,8 @@ A collection of German language models (model architectures: GPT, BLOOM).
 
 | Model | Size |
 |---|---|
-| [`bloom-1b7-twc-german`](https://huggingface.co/malteos/bloom-1b7-twc-german) | 1.5B |
+| [`bloom-6b4-clp-german`](https://huggingface.co/malteos/bloom-6b4-clp-german) | 6.4B |
+| [`bloom-1b7-twc-german`](https://huggingface.co/malteos/bloom-1b5-clp-german) | 1.5B |
 | [`gpt2-xl-wechsel-german`](https://huggingface.co/malteos/gpt2-xl-wechsel-german) | 1.5B |
 | [`gpt2-wechsel-german-ds-meg`](https://huggingface.co/malteos/gpt2-wechsel-german-ds-meg) | 117M |
 
